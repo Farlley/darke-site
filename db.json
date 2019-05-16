@@ -1,0 +1,58 @@
+{
+  "segments": [
+    {
+      "title": "Imobiliária",
+      "id": 1
+    },
+    {
+      "title": "Advocacia",
+      "id": 2
+    }
+  ],
+  "documentos": [
+    {
+      "date": "06/11/2018",
+      "title": "Ata de Assembléia de 05/11/2018",
+      "new": true,
+      "url": "http://.../document.jpg"
+    },
+    {
+      "date": "06/11/2018",
+      "title": "Ata de Assembléia de 05/11/2018",
+      "new": false,
+      "url": "http://.../document.jpg"
+    }
+  ],
+  "floors": [
+    {
+      "title": "7º",
+      "id": 45
+    },
+    {
+      "title": "12º",
+      "id": 47
+    }
+  ],
+  "units": {
+    "info": {
+      "total_pages": 5,
+      "current_page": 1,
+      "total_items": 100,
+      "per_page": 20
+    },
+    "data": [
+      {
+        "name": "Imobiliária Exemplo",
+        "atividade": "Imobiliária",
+        "telefone": "(21) 1324-5678",
+        "logo": "http://.../logo.jpg"
+      },
+      {
+        "name": "Imobiliária Exemplo",
+        "atividade": "Imobiliária",
+        "telefone": "(21) 1324-5678",
+        "logo": "http://.../logo.jpg"
+      }
+    ]
+  }
+}
