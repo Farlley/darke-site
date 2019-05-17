@@ -54,5 +54,19 @@
         "logo": "http://localhost/intellicon/intellicon-site/images/condominos/exemplo-1.jpg"
       }
     ]
-  }
+  },
+  "units": [
+    {
+      "name": "Imobiliária Exemplo",
+      "atividade": "Imobiliária",
+      "telefone": "(21) 1324-5678",
+      "logo": "http://localhost/intellicon/intellicon-site/images/condominos/exemplo-1.jpg"
+    },
+    {
+      "name": "Imobiliária Exemplo",
+      "atividade": "Imobiliária",
+      "telefone": "(21) 1324-5678",
+      "logo": "http://localhost/intellicon/intellicon-site/images/condominos/exemplo-1.jpg"
+    }
+  ]
 }
